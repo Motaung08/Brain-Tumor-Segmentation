@@ -22,3 +22,6 @@ kNN confusion matrix.
 
 ### Logistic regression (full batch)
 ![LR fullbatch](https://github.com/Motaung08/Brain-Tumor-Segmentation/blob/main/results/full_batch.png)
+
+### Logistic regression (genetic algorithm)
+![LR GA](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/Genetic_alg.png)
