@@ -17,6 +17,7 @@ Logistic regression is the best performing model with a peak accuracy of 96%. Be
 
 ### kNN
 kNN confusion matrix.
+
 ![kNN text](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/knn_cunfusion_matrix.png)
 
 
@@ -27,4 +28,4 @@ kNN confusion matrix.
 ![LR GA](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/Genetic_alg.png)
 
 ### Logistic regression (particle swamp optimization)
-[LR pso](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/pso_alg.png)
+![LR pso](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/pso_alg.png)
