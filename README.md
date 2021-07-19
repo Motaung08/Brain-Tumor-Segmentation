@@ -14,3 +14,6 @@ Medical imaging refers to a set of technologies designed to generate visual repr
 Logistic regression is the best performing model with a peak accuracy of 96%. Below is it's confusion matrix.
 
 ![Alt text](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/LR_cm.png)
+
+### kNN
+![kNN text](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/knn_cunfusion_matrix.png)
