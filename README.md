@@ -25,3 +25,6 @@ kNN confusion matrix.
 
 ### Logistic regression (genetic algorithm)
 ![LR GA](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/Genetic_alg.png)
+
+### Logistic regression (particle swamp optimization)
+[LR pso](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/pso_alg.png)
